@@ -14,12 +14,11 @@
 
 🖖 Game fanatics | 🍎 Computer Graphics learner | ☕️ Coffee lover | 🌵 Cryptography
 
-## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
+## Currently Working On
 
 - 🔭 I’m currently working on a Raytracing project based on RayTracing in one weekend series.
-[![Auth UI Vue](https://svg.bookmark.style/api?url=https://github.com/nuxtbase/auth-ui-vue&mode=light&style=horizontal)](https://github.com/nuxtbase/auth-ui-vue)
+[![Homomorphic-Encryption](https://svg.bookmark.style/api?url=https://github.com/IIIImp/Homomorphic-Encryption&mode=light&style=horizontal)](https://github.com/IIIImp/Homomorphic-Encryption)
 [![vue-command-palette](https://svg.bookmark.style/api?url=https://github.com/xiaoluoboding/vue-command-palette&mode=dark&style=horizontal)](https://github.com/xiaoluoboding/vue-command-palette)
-[![vue-sonner](https://svg.bookmark.style/api?url=https://github.com/xiaoluoboding/vue-sonner&mode=light&style=horizontal)](https://github.com/xiaoluoboding/vue-sonner)
 
 ## Tools and Equipments
   <code><img height="40" src="https://cdn.simpleicons.org/C++?viewbox=auto"></code>
@@ -34,7 +33,7 @@
   <code><img height="40" src="https://cdn.simpleicons.org/steam?viewbox=auto"></code>
   <code><img height="40" src="https://cdn.simpleicons.org/epicgames?viewbox=auto"></code>
 
-## 𝗦𝘁𝗮𝘁𝘀
+## Stats
 
 ![IIIImp's github stats](https://github-readme-stats.vercel.app/api?username=IIIImp&show_icons=true&theme=dracula)
 <!--
