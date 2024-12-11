@@ -1,17 +1,20 @@
 # Hello, I'm Fang Shihan.
 
-[![](https://img.shields.io/badge/-@IIIImp-%23181717?style=flat-square&logo=github&color=000000)](https://github.com/IIIImp)
-[![](https://img.shields.io/badge/-@IIIImp-%23000000?style=flat-square&logo=LeetCode&color=f8ebe6)](https://leetcode.cn/u/iiiimp-3/)
-[![](https://img.shields.io/badge/-@xiaoluoboding-%23000000?style=flat-square&logo=codesandbox)](https://codesandbox.io/u/xiaoluoboding)
-[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=xlbd.me&url=https%3A%2F%2Fxlbd.me)](https://xlbd.me)
+[![](https://img.shields.io/badge/-@IIIImp-%23181717?style=flat-square&logo=github&color=000000&labelColor)](https://github.com/IIIImp)
+[![](https://img.shields.io/badge/-@IIIImp-%23000000?style=flat-square&logo=LeetCode&color=000000)](https://leetcode.cn/u/iiiimp-3/)
+[![](https://img.shields.io/badge/-@IIIImp-%23000000?style=flat-square&logo=Codewars)](https://www.codewars.com/users/IIIImp)
 
-𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
+:video_game: All platform Video Game enthusiast.
 
-:computer: 𝑨 𝒘𝒆𝒃 𝒅𝒆𝒗 𝒆𝒏𝒕𝒉𝒖𝒔𝒊𝒂𝒔𝒕 𝒘𝒊𝒕𝒉 𝒂 𝒑𝒂𝒔𝒔𝒊𝒐𝒏 𝒇𝒐𝒓 𝑽𝒖𝒆.𝒋𝒔.
+:computer: A beginner in Computer Graphics.
 
-🖖 𝙑𝙪𝙚.𝙟𝙨 𝙛𝙖𝙣𝙖𝙩𝙞𝙘𝙨 | 🍎 𝙎𝙬𝙞𝙛𝙩 𝙡𝙚𝙖𝙧𝙣𝙚𝙧 | ☕️ 𝘾𝙤𝙛𝙛𝙚𝙚 𝙡𝙤𝙫𝙚𝙧 | 🌵 𝘼𝙜𝙖𝙫𝙚 𝙣𝙖𝙣𝙣𝙮
+:key: Knowledge in Post-quantum cryptography.
 
-💡 𝑷𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒂𝒃𝒐𝒖𝒕 𝒃𝒓𝒊𝒏𝒈𝒊𝒏𝒈 𝒊𝒅𝒆𝒂𝒔 𝒕𝒐 𝒍𝒊𝒇𝒆. 𝑬𝒙𝒑𝒍𝒐𝒓𝒆 𝒂𝒍𝒍 𝒐𝒇 𝒎𝒚 𝒑𝒓𝒐𝒋𝒆𝒄𝒕𝒔.
+:floppy_disk: Some attempt on CUDA programming.
+
+🖖 Game fanatics | 🍎 Computer Graphics learner | ☕️ Coffee lover | 🌵 Cryptography
+
+💡 You only live once.
 
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
