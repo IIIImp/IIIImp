@@ -19,7 +19,7 @@
 - 🔭 I’m currently working on a Raytracing project based on RayTracing in one weekend series.
 
 [![Homomorphic-Encryption](https://svg.bookmark.style/api?url=https://github.com/IIIImp/Homomorphic-Encryption&mode=light&style=horizontal)](https://github.com/IIIImp/Homomorphic-Encryption)
-[![Crypto_Collection](https://svg.bookmark.style/api?url=https://github.com/IIIImp/Crypto_Collection&mode=dark&style=horizontal)](https://github.com/IIIImp/Crypto_Collection)
+[![RayTracing](https://svg.bookmark.style/api?url=https://github.com/IIIImp/RayTracing_Reconstruct&mode=dark&style=horizontal)](https://github.com/IIIImp/RayTracing_Reconstruct)
 
 ## Tools and Equipments
   <code><img height="40" src="https://cdn.simpleicons.org/C++?viewbox=auto"></code>
